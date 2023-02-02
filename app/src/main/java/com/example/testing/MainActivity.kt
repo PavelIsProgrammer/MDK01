@@ -31,6 +31,8 @@ class MainActivity : AppCompatActivity() {
     private var dragging = false
     //For commit
 
+    //For commit in branch 2
+
     @SuppressLint("ClickableViewAccessibility")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
