@@ -29,6 +29,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var runnable: Runnable
     private val handler = Handler(Looper.getMainLooper())
     private var dragging = false
+    //For commit
 
     @SuppressLint("ClickableViewAccessibility")
     override fun onCreate(savedInstanceState: Bundle?) {
